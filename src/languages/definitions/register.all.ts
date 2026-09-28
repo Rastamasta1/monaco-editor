@@ -20,6 +20,7 @@ import './dart/register';
 import './dockerfile/register';
 import './ecl/register';
 import './elixir/register';
+import './erlang/register';
 import './flow9/register';
 import './fsharp/register';
 import './freemarker2/register';
